@@ -16,7 +16,7 @@
   <script src="angular/angular-sanitize.js"></script>
   <script src="angular/angular-scenario.js"></script>
   <script src="angular/angular-touch.js"></script>
-
+  
   <script src="js/app.module.js"></script>
   <script src="js/phone-list/phone-list.module.js"></script>
   <script src="js/phone-list/phone-list.component.js"></script>
