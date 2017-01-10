@@ -1,4 +1,5 @@
 angular.module('TmsApp', [
   'SearchBarModule',
-  'SideNavModule'
+  'SideNavModule',
+  'DataTableModule'
 ]);
